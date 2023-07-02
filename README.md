@@ -32,6 +32,7 @@ Customer care Executive - Apen Technologies                                     
 Based on the U.S process, Worked as an Customer care executive 
 Responsible for unlocking the IMEI No. of the Iphones over call for customers.
 Unlocked 1k> IMEI’s number, and got good Incentives every month.
+
 PROJECTS 
 
 Exploratory Data Analysis on Google Play Store (View)
