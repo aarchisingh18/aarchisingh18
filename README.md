@@ -1,78 +1,29 @@
-### Hi there 👋
+ <h1 align="center">Hi 👋, I'm Archana singh</h1>
+<h3 align="center">Data Science and Machine Learning</h3>
 
-EDUCATION
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aarchisingh18&label=Profile%20views&color=0e75b6&style=flat" alt="aarchisingh18" /> </p>
 
-Data Science Bootcamp, Jovian                                                                                                  Feb 2023 - Ongoing
+- 🔭 I’m currently working on **Machine Learning**
 
-Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
-Highlights: 500+ hours of coursework, 12 coding assignments, 3 projects (Web scraping, EDA, Tableau)
+- 👨‍💻 All of my projects are available at [https://jovian.com/aaarchisingh18](https://jovian.com/aaarchisingh18)
 
-Sunderdeep Engineering Institute Ghaziabad, B.tech (ECE)                                                                       2012 - 2015
+- 💬 Ask me about **Python, SQL, Data Analysis and visualization**
 
-Courses: Digital electronics, Electronics and communication, Microprocessor & Microcontroller 
+- 📫 How to reach me **aaarchisingh18@gmail.com**
 
-Govt. Girls Polytechnic Varanasi (Board of Technical Education)	                                                               2009 - 2012
+- 📄 Know about my experiences [https://docs.google.com/document/d/1mAJayVLpUJhHheoPPVaTuk8FX_nAi7pgmott4IPkU9U/edit](https://docs.google.com/document/d/1mAJayVLpUJhHheoPPVaTuk8FX_nAi7pgmott4IPkU9U/edit)
 
-Diploma in Electronics and communication(76%)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/archana-singh-6a9428280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/archana-singh-6a9428280/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/archanasingh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/archanasingh7" height="30" width="40" /></a>
+<a href="https://medium.com/@aaarchisingh18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aaarchisingh18" height="30" width="40" /></a>
+</p>
 
-Courses: Applied mathematics, Applied physics, Basic of information technology, Communication System, Microprocessor, Television Engineering
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarchisingh18&show_icons=true&locale=en&layout=compact" alt="aarchisingh18" /></p>
 
-SKILLS
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarchisingh18&show_icons=true&locale=en" alt="aarchisingh18" /></p>
 
-Skills: SQL, Python, Excel, Tableau, Power BI, Data Analysis & Visualization, Machine Learning, Web Scraping
-
-
-WORK EXPERIENCE 
-
-Application Support Engineer - Wipro(Indian AirForce)          				                   Jul 2018 - Dec 2018
-
-• Worked on EMMS (Equipment Management & Maintenance system) project for the Indian AirForce
-
-• Responsible for Biometric process, Enter the equipment information of aircraft, creating orders etc
-
-• Created maximum no. of biometrics and orders in the system with the help of air force staff
-
-Customer Executive - Eli Research India (p) Ltd                                                                             Oct 2016 - Apr 2018
-
-• Responsible for verifying the personal info of the customer, then connecting to the senior executive
-
-• Completed approx 1 lacs Account verification of customers within a year, and got top performer title
-
-• Zero complaints from the customers and also the collection increased by 2 times that year
-
-Customer care Executive - Apen Technologies                                                                              Dec 2015 - Sep 2016 
-
-• Responsible for unlocking the IMEI No. of the Iphones over call for customers.
-
-• Unlocked > 1k IMEI’s number of the I phones in 9 months, and got good incentives every month.
-
-• Appreciated by manager, 2.5x raised in unlocking phones from new ideas and teamwork
-
-PROJECTS 
-
-Exploratory Data Analysis on Google Play Store (View)
-
-• Analyzed 23.1 lakh rows and 24 columns of data by merging 6 datasets using Pandas
-
-• Created visualizations (bar plot, scatter plots, pie chart etc.) using Seaborn, Matplotlib & Plotly
-
-• Discover Insights people more interested in Game, Social, Comm. and Tool Categories
-
-Web Scraping of Top Movies and Tv show (View) 
-
-• Scraped movies and Tvshows lists from IMDb Site using Requests and BeautifulSoup 
-
-• Built functions parse_movies, movies_dict etc. to scrape movies’ title, release year, rating etc
-
-• Stored data of 100 rows x 5 columns movies.csv & 250 rows x 3 columns tvshow.csv using Pandas 
-
-Data Analysis of Book Shop Dataset using Tableau (View)
-
-• Analyzed data for Bookshop sample database containing 13 tables using 7 tables for creating visuals
-  
-• Created 6 Visualizations(Maps, Horizontal bars, packed bubbles, stacked etc.) using Tableau public
-  
-• The Mallemaroking is the most popular book by Rating and has the maximum number of awards
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarchisingh18&" alt="aarchisingh18" /></p>
